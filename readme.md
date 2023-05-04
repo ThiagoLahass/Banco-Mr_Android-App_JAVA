@@ -3,10 +3,10 @@
 Banco MR é um aplicativo Android de um banco fictício que permite ao usuário utilizar varias funcionalidades, como consultar seu Saldo, Resumo das Faturas, Cartão de Crédito, Transferência e Poupança.
 
 <div style="display:flex">
-    <img src="BancoMR-Screenshots/TelaPrincipal.jpg" width="18%" height="18%" style="margin-right:20px">
-    <img src="BancoMR-Screenshots/Saldo.jpg" width="18%" height="18%" style="margin-right:20px">
-    <img src="BancoMR-Screenshots/Faturas.jpg" width="18%" height="18%" style="margin-right:20px">
-    <img src="BancoMR-Screenshots/Transferencias.jpg" width="18%" height="18%" style="margin-right:20px">
+    <img src="BancoMR-Screenshots/TelaPrincipal.jpg" width="18%" height="18%" style="margin-right:25px">
+    <img src="BancoMR-Screenshots/Saldo.jpg" width="18%" height="18%" style="margin-right:25px">
+    <img src="BancoMR-Screenshots/Faturas.jpg" width="18%" height="18%" style="margin-right:25px">
+    <img src="BancoMR-Screenshots/Transferencias.jpg" width="18%" height="18%" style="margin-right:25px">
     <img src="BancoMR-Screenshots/Poupança.jpg" width="18%" height="18%">
 </div>
 
