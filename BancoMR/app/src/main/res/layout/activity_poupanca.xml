@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:background="@color/blue"
             app:navigationIcon="@drawable/ic_back"
-            app:title="Tranferências"
+            app:title="Poupança"
             app:titleTextColor="@color/white"/>
 
         <TextView
