@@ -1,6 +1,6 @@
 # Banco MR💳💵
 
-Banco MR é um aplicativo Android de um banco fictício que permite ao usuário utilizar varias funcionalidades, como consultar seu Saldo, Resumo das Faturas, Cartão de Crédito, Transferência e Poupança.
+Banco MR é um aplicativo Android implementado em Java de um banco fictício que permite ao usuário utilizar varias funcionalidades, como consultar seu Saldo, Resumo das Faturas, Cartão de Crédito, Transferência e Poupança.
 
 <div style="display:flex">
     <img src="BancoMR-Screenshots/TelaPrincipal.jpg" width="18%" height="18%" style="margin-right:25px">
