@@ -66,4 +66,4 @@ Os Intents são utilizados para passar informações entre diferentes Activities
 
 A interface View.OnClickListener é implementada para detectar eventos de clique em elementos na tela.
 
-Esperamos que esta lista de conceitos tenha sido útil para você entender como o aplicativo Banco MR foi desenvolvido.
+Espero que esta lista de conceitos tenha sido útil para você entender como o aplicativo Banco MR foi desenvolvido.
