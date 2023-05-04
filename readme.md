@@ -1,6 +1,6 @@
 # Banco MR💳
 
-Banco MR é um aplicativo Android que permite ao usuário gerenciar suas contas bancárias de forma fácil e conveniente. O aplicativo utiliza vários conceitos do desenvolvimento Android, incluindo:
+Banco MR é um aplicativo Android de um banco fictício que permite ao usuário utilizar varias funcionalidades, como consultar seu Saldo, Resumo das Faturas, Cartão de Crédito, Transferência e Poupança. O aplicativo utiliza vários conceitos do desenvolvimento Android, incluindo:
 
 ## 📐 Layouts
 
